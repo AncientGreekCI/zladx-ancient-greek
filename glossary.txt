@@ -1,0 +1,157 @@
+# English | Greek | stem (accent-free Greek capitals the checker looks for). Alternatives in the English column are separated by /
+# --- names (transliterate; keep indeclinable unless shown)
+Link | Λίνκ | ΛΙΝΚ
+Zelda | Ζέλδα | ΖΕΛΔΑ
+Marin | Μαρίνη (acc. Μαρίνην) | ΜΑΡΙΝ
+Tarin | Ταρῖνος (gen. Ταρίνου) | ΤΑΡΙΝ
+Papahl | Παπάλ | ΠΑΠΑΛ
+Crazy Tracy | Τρέισι ἡ μαινομένη | ΤΡΕΙΣΙ
+Ulrira | Οὐλρίρα | ΟΥΛΡΙΡ
+MeowMeow | Μιαουμιάου (κυρία Μιαουμιάου) | ΜΙΑΟΥΜΙΑΟΥ
+Mr. Write | ὁ Γραφεύς (gen. Γραφέως, acc. Γραφέα) | ΓΡΑΦΕ
+Richard | Ῥιχάρδος (gen. Ῥιχάρδου) | ΡΙΧΑΡΔ
+Sale's | Σάλης | ΣΑΛ
+Martha | Μάρθα | ΜΑΡΘ
+Yoshi | Ἰώσι | ΙΩΣΙ
+# --- places
+Koholint | Κοχόλιντ (ἡ νῆσος Κοχόλιντ) | ΚΟΧΟΛΙΝΤ
+Mabe Village | ἡ κώμη Μαβή | ΜΑΒΗ
+Tamaranch | τὸ ὄρος Ταμαράν | ΤΑΜΑΡΑΝ
+Tal Tal | Τάλ Τάλ | ΤΑΛ
+Toronbo | Τορόνβο | ΤΟΡΟΝΒΟ
+Goponga | Γοπόγγα | ΓΟΠΟΓΓΑ
+Kanalet | Κανάλετ | ΚΑΝΑΛΕΤ
+Ukuku | Οὐκούκου | ΟΥΚΟΥΚΟΥ
+Yarna | Ἰάρνα | ΙΑΡΝΑ
+Tabahl | Ταβάλ | ΤΑΒΑΛ
+Village | ἡ κώμη | ΚΩΜ
+Woods/Forest | ὁ δρυμός | ΔΡΥΜ
+Beach/Shore | ὁ αἰγιαλός | ΑΙΓΙΑΛ
+Castle | τὸ φρούριον | ΦΡΟΥΡΙ
+Bay | ὁ κόλπος | ΚΟΛΠ
+Desert | ἡ ἔρημος | ΕΡΗΜ
+Prairie | τὸ πεδίον | ΠΕΔΙ
+Swamp | τὸ ἕλος | ΕΛ
+Cemetery | τὰ μνημεῖα | ΜΝΗΜΕΙ
+Library | ἡ βιβλιοθήκη | ΒΙΒΛΙΟΘ
+Bridge | ἡ γέφυρα | ΓΕΦΥΡ
+Mountain | τὸ ὄρος (pl. τὰ ὄρη) | ΟΡ
+Telephone | τὸ τηλέφωνον (coinage) | ΤΗΛΕΦΩΝ
+Warp Hole | ἡ ὀπὴ μεταβάσεως | ΜΕΤΑΒΑΣ
+# --- dungeons
+Tail Cave | τὸ σπήλαιον τῆς οὐρᾶς | ΟΥΡΑΣ
+Bottle Grotto | τὸ σπήλαιον τοῦ ἀσκοῦ | ΑΣΚΟΥ
+Key Cavern | τὸ σπήλαιον τῆς κλειδός | ΚΛΕΙΔΟΣ
+Angler's Tunnel | ἡ διῶρυξ τοῦ ἁλιέως | ΔΙΩΡΥΞ
+Catfish's Maw | τὸ στόμα τοῦ σιλούρου | ΣΙΛΟΥΡ
+Face Shrine | τὸ ἱερὸν τοῦ προσώπου | ΠΡΟΣΩΠ
+Eagle's Tower | ὁ πύργος τοῦ ἀετοῦ | ΑΕΤΟΥ
+Turtle Rock | ἡ πέτρα τῆς χελώνης | ΧΕΛΩΝ
+Wind Fish's Egg | τὸ ᾠὸν τοῦ ἰχθύος | ΩΟΝ
+Level 1-8 | Πρῶτον, Δεύτερον, Τρίτον, Τέταρτον, Πέμπτον, Ἕκτον, Ἕβδομον, Ὄγδοον | ΠΡΩΤΟΝ
+Dungeon | ὁ λαβύρινθος | ΛΑΒΥΡΙΝΘ
+# --- story
+Wind Fish | ὁ ἰχθὺς τοῦ ἀνέμου | ΙΧΘΥ
+Ballad | τὸ ᾆσμα | ΑΣΜΑ
+Siren/Sirens | οἱ Σειρῆνες (τὰ ὄργανα τῶν Σειρήνων) | ΣΕΙΡΗΝ
+Nightmare/Nightmares | ὁ Ἐφιάλτης (pl. οἱ Ἐφιάλται) | ΕΦΙΑΛΤ
+Owl | ἡ γλαῦξ (hoot = Κικαῦ) | ΓΛΑΥ
+Monster/Monsters | τὸ θηρίον | ΘΗΡΙ
+Enemy/Enemies | ὁ ἐχθρός | ΕΧΘΡ
+Raccoon | ἡ ἀλώπηξ (fox, deliberate) | ΑΛΩΠΗΞ
+Hen | ἡ ὄρνις | ΟΡΝΙ
+Toadstool/Mushroom | ὁ μύκης | ΜΥΚΗ
+Fish | ὁ ἰχθύς | ΙΧΘΥ
+Fishing | ἁλιεύειν | ΑΛΙΕΥ
+Bottle | ὁ ἀσκός | ΑΣΚ
+# --- items and money
+Rupee/Rupees | ἡ δραχμή (pl. δραχμαί) | ΔΡΑΧΜ
+Heart Container | τὸ ἀγγεῖον τῆς καρδίας | ΑΓΓΕΙ
+Piece of Heart | τὸ μέρος καρδίας | ΜΕΡ
+Piece of Power | τὸ μέρος δυνάμεως | ΔΥΝΑΜΕΩΣ
+Heart/Hearts | ἡ καρδία | ΚΑΡΔΙ
+Sword | ἡ μάχαιρα | ΜΑΧΑΙΡ
+Shield | ὁ θυρεός | ΘΥΡΕ
+Bomb/Bombs | τὸ πυρίβολον (coinage) | ΠΥΡΙΒΟΛ
+Bow & Arrow | τὸ τόξον καὶ τὰ βέλη | ΤΟΞΟΝ
+Arrow/Arrows | τὸ βέλος (pl. βέλη) | ΒΕΛ
+Nightmare Key | ἡ κλεὶς τῶν Ἐφιαλτῶν | ΕΦΙΑΛΤ
+Tail Key | ἡ κλεὶς τῆς οὐρᾶς | ΟΥΡΑΣ
+Slime Key | ἡ κλεὶς τῆς ἰλύος | ΙΛΥΟΣ
+Angler Key | ἡ κλεὶς τοῦ ἁλιέως | ΑΛΙΕ
+Key | ἡ κλείς (acc. κλεῖδα, gen. κλειδός) | ΚΛΕΙ
+Ocarina | ὁ αὐλός | ΑΥΛ
+Power Bracelet | τὸ ψέλιον τῆς δυνάμεως | ΨΕΛΙΟΝ
+Hook Shot/Hookshot | τὸ ἄγκιστρον | ΑΓΚΙΣΤΡ
+Magic Rod | ἡ ῥάβδος ἡ μαγική | ΡΑΒΔ
+Pegasus Boots | τὰ ὑποδήματα τοῦ Πηγάσου | ΥΠΟΔΗΜ
+Roc's Feather | τὸ πτερὸν τοῦ μεγάλου ὄρνεος | ΠΤΕΡΟΝ
+Shovel | ἡ σκαπάνη | ΣΚΑΠΑΝ
+Magic Powder | ἡ κόνις ἡ μαγική | ΚΟΝΙ
+Flippers | τὰ πτερύγια | ΠΤΕΡΥΓ
+Magnifying Lens | ἡ ὕαλος ἡ μεγαλύνουσα | ΥΑΛΟ
+secret medicine | τὸ φάρμακον τὸ ἀπόκρυφον | ΦΑΡΜΑΚ
+Doll | τὸ παίγνιον | ΠΑΙΓΝΙ
+# --- interface
+Button | τὸ πλῆκτρον | ΠΛΗΚΤΡ
+SELECT | ἡ ἐκλογή (Latin capitals cannot be shown) | ΕΚΛΟΓ
+Subscreen | ἡ ἀποθήκη | ΑΠΟΘΗΚ
+# --- added from batch 2 (0A4-107)
+START | τὸ πλῆκτρον ἀρχῆς (Latin button name cannot be shown) | ΑΡΧΗΣ
+Map | ὁ χάρτης | ΧΑΡΤ
+Compass | ἡ πυξίς | ΠΥΞ
+Face Key | ἡ κλεὶς τοῦ προσώπου | ΠΡΟΣΩΠ
+Bird Key | ἡ κλεὶς τῆς ὄρνιθος | ΟΡΝΙΘ
+Guardian Acorn | ἡ βάλανος ἡ φυλάττουσα | ΒΑΛΑΝ
+Mirror Shield | ὁ θυρεὸς τοῦ κατόπτρου | ΚΑΤΟΠΤΡ
+Seashell | τὸ κογχύλιον (Secret Seashell = τὸ κογχύλιον τὸ κρυπτόν) | ΚΟΓΧΥΛ
+Mermaid | ἡ Νηρηΐς | ΝΗΡΗ
+Schule | Σοῦλε | ΣΟΥΛΕ
+Mamu | Μαμοῦ | ΜΑΜΟΥ
+Frog's Song of Soul | τὸ ᾆσμα τῆς ψυχῆς τοῦ βατράχου | ΒΑΤΡΑΧ
+Gold Leaf | τὸ χρυσοῦν φύλλον | ΦΥΛΛ
+Full Moon Cello | ἡ κιθάρα τῆς πανσελήνου | ΚΙΘΑΡ
+Conch Horn | ἡ σάλπιγξ τοῦ κόγχου | ΣΑΛΠΙΓΓ
+Sea Lily's Bell | ὁ κώδων τοῦ κρίνου τῆς θαλάσσης | ΚΩΔΩΝ
+Surf Harp | τὸ ψαλτήριον τοῦ κλύδωνος (harp = ψαλτήριον, never ἅρπη = sickle) | ΨΑΛΤΗΡ
+Wind Marimba | τὸ ξυλόφωνον τοῦ ἀνέμου (coinage) | ΞΥΛΟΦΩΝ
+Coral Triangle | τὸ τρίγωνον τοῦ κοραλλίου | ΤΡΙΓΩΝ
+Organ of Evening Calm | τὸ ὄργανον τῆς ἑσπερινῆς γαλήνης | ΟΡΓΑΝ
+Thunder Drum | τὸ τύμπανον τῆς βροντῆς | ΤΥΜΠΑΝ
+# --- added from batch 3 (108-18F)
+Photographer | ὁ ζωγράφος | ΖΩΓΡΑΦ
+BowWow | ὁ Βαῦβαῦ | ΒΑΥΒΑΥ
+Moblin/Moblins | ὁ Μωβλῖνος (pl. οἱ Μωβλῖνοι) | ΜΩΒΛΙΝ
+Pothole Field | ὁ ἀγρὸς βοθύνων | ΒΟΘΥΝ
+Animal Village | ἡ κώμη τῶν ζῴων | ΖΩΩΝ
+Weathercock | ὁ ἀνεμοδείκτης (coinage) | ΑΝΕΜΟΔΕΙΚΤ
+Flying Rooster | ὁ πετόμενος ἀλέκτωρ | ΑΛΕΚΤ
+Kiki | Κίκι | ΚΙΚΙ
+Manbo | Μάνβο | ΜΑΝΒΟ
+Sun Fish | ὁ ἰχθὺς τοῦ ἡλίου | ΗΛΙΟΥ
+Manbo's Mambo | ὁ Μάμβο τοῦ Μάνβο | ΜΑΜΒΟ
+Manbo Pond | ἡ λίμνη Μάνβο | ΛΙΜΝ
+Mermaid's Scale | ἡ λεπὶς τῆς Νηρηΐδος (never λεπορίς) | ΛΕΠ
+Broom | τὸ κόρημα | ΚΟΡΗΜ
+Fishhook | τὸ ἁλιευτικὸν ἄγκιστρον | ΑΛΙΕΥΤ
+Grandma | ἡ τήθη | ΤΗΘΗ
+# --- added from batch 4a (190-1CF)
+Stick | τὸ ξύλον | ΞΥΛΟΝ
+Honeycomb | τὸ κηρίον | ΚΗΡΙΟΝ
+Sea Urchin | ὁ ἐχῖνος | ΕΧΙΝ
+Canned food / dog food | τὸ βρῶμα ἐν ἀγγείῳ (dog food = <dogfood> symbol) | ΒΡΩΜΑ
+Raft | ἡ σχεδία | ΣΧΕΔΙΑ
+Pineapple | ὁ ἀνανᾶς (transliteration, coinage) | ΑΝΑΝΑ
+Camera Shop | ὁ οἶκος τοῦ ζωγράφου | ΖΩΓΡΑΦ
+Telephone Booth | ἡ σκηνὴ τοῦ τηλεφώνου | ΣΚΗΝΗ
+# --- added from batch 4c (210-24D)
+Boomerang | τὸ λαγωβόλον (a hare-throwing stick; ῥόπαλον = club, wrong) | ΛΑΓΩΒΟΛ
+Walrus | ἡ φώκη (seal; no ancient word for walrus) | ΦΩΚΗ
+Crow/Raven | ὁ κόραξ | ΚΟΡΑ
+# --- added from the last file (24E-2AF)
+Carrot | τὸ δαῦκον | ΔΑΥΚ
+Stalfos | Στάλφος | ΣΤΑΛΦ
+Pols Voice | Πόλς Βόις | ΠΟΛΣ
+Album | ἡ βίβλος | ΒΙΒΛ
+Blue Clothes/Red Clothes | τὰ κυανᾶ ἱμάτια / τὰ ἐρυθρᾶ ἱμάτια | ΙΜΑΤΙ
+Fairy Queen | ἡ βασίλισσα τῶν νυμφῶν | ΝΥΜΦ
