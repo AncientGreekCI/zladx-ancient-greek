@@ -22,10 +22,9 @@ Obviously, it’s not going to be a perfect translation that will please everyon
 Unfortunately, it was technically easier to just use unaccented capitals. Just imagine you're reading an ancient manuscript.
 
 ## How to Play
-
 1. **Source the ROM:** Obtain a legally sourced English ROM of *The Legend of Zelda: Link's Awakening DX* (Version 1.0 or Revision A).
-2. **Download the Patch:** Go to the **Releases** section on the right side of this GitHub page and download the `.IPS` patch matching your ROM version.
-3. **Apply the Patch:** Use a web patching tool such as [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) to apply the `.IPS` file to your ROM.
+2. **Download the Patch:** [Download the latest .IPS patch here](https://github.com/AncientGreekCI/zladx-ancient-greek/releases/tag/v1.0). Make sure to download the file matching your ROM version.
+3. **Apply the Patch:** Use a web patching tool such as [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) to apply the .IPS file to your ROM.
 4. **Save and Play:** Save the newly patched ROM to your device and load it into a Game Boy Color emulator (such as mGBA, SameBoy, or PyBoy).
 
 *Note: This repository contains only the translation patch and text modifications. It does not contain the original game ROM.*
